@@ -1,5 +1,3 @@
-console.log('hello');
-
 InputJson = [{
         "name": "Watches 1",
         "id": 5,
